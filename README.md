@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi I'm Hohenzoler! <img src="https://github.com/Hohenzoler/About-Me/blob/main/waving.gif" width="28px" alt="👋"></h1>
 
-## 🌐 Socials:
+## <h2 align="center">🌐 Socials:</h2>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/LST#5025) 
 
 # 💻 Tech Stack:
