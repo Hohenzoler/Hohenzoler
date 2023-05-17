@@ -1,4 +1,6 @@
 
+# Hi I'm Hohenzoler!
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/LST#5025) 
 
@@ -12,8 +14,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hohenzoler&icon=0&color=0)](https://visitcount.itsvg.in)
